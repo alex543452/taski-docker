@@ -1,0 +1,11 @@
+# .dockerignore
+venv
+.venv
+.env
+env
+.git
+db.sqlite3
+.vscode
+.idea
+node_modules
+build

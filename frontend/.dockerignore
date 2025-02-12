@@ -1,0 +1,11 @@
+# frontend/.dockerignore
+node_modules
+build
+venv
+.venv
+.env
+env
+.git
+db.sqlite3
+.vscode
+.idea
